@@ -1,0 +1,16 @@
+# Core machine learning and deep learning frameworks
+tensorflow==2.16.1
+keras==3.3.3
+
+# For numerical operations and array manipulation
+numpy==1.24.4
+
+# For data handling and manipulation (e.g., reading CSV files)
+pandas==2.1.1
+
+# For creating plots and visualizing data
+matplotlib==3.8.0
+seaborn==0.13.0
+
+# Common machine learning library for utilities and metrics
+scikit-learn==1.3.1
