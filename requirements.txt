@@ -14,3 +14,6 @@ seaborn==0.13.0
 
 # Common machine learning library for utilities and metrics
 scikit-learn==1.3.1
+
+# This Is a custom package for grading assignments in the course - may need to rebuild interpreter
+dlai-grader==1.22.2
